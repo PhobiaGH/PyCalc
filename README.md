@@ -1,4 +1,4 @@
-# Python_Calculator
+# PyCalc
 A VERY simple calculator written in python for educational purposes. Feel free to download, and learn from it.
 
 # Dependencies
